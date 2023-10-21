@@ -13,3 +13,5 @@ python3 -m venv CryptoCurrencyScripts
 pip3 install requests==2.31.0
 
 pip3 install virtualenv==20.23.0
+
+pip3 install solathon==0.1.2
