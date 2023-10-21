@@ -1,8 +1,12 @@
 # CryptoCurrencyScripts
 Cryptocurrency scripts with python
 
-pip install requests==2.31.0
+pip or pip3
 
-or 
+Im using Python 3.11.5
+
+### Install 
 
 pip3 install requests==2.31.0
+
+pip3 install virtualenv==20.23.0
